@@ -1,6 +1,6 @@
 <template>
   <div>
     <NuxtRouteAnnouncer />
-    <NuxtWelcome />
+    <span>PERSONAL FINANCE</span>
   </div>
 </template>
